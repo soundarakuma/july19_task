@@ -1,0 +1,122 @@
+.header{
+    background-color: black;
+    color: red;
+    padding: 30px;
+    text-align: center;
+
+
+}
+.flex-container{
+    display: flex;
+    /* border: 3px solid black;  */
+    /* background-color: yellow; */
+    justify-content: center;
+    /* margin-left: 200px; */
+}
+.flex-container > .box1{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im1.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+
+}
+.flex-container > .box2{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im2.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+
+}
+
+.flex-container > .box3{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im3.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+}
+.flex-container > .box4{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im4.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+}
+
+.section1{
+    background-image: url('../images/end.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: 70%;
+    margin-left: 200px;
+}
+.flex-container1{
+    display: flex;
+    /* border: 3px solid black;  */
+    /* background-color: yellow; */
+    justify-content: center;
+    /* margin-left: 200px; */
+}
+.flex-container1 > .box5{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im5.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+}
+.flex-container1 > .box6{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im6.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+}
+.flex-container1 > .box7{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im7.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+}
+.flex-container1 > .box8{
+    width: 200px;
+    height: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-image: url('../images/im8.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size cover;
+}
+
+ .footer{
+    background-color: black;
+    color: red;
+    padding: 30px;
+    text-align: center;
+} 
